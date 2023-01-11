@@ -4,6 +4,8 @@
 ## What is a Treva Labs?
 [TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
 
+We are currently in the start-up phase – expect more from us soon.
+
 ## What is a Climate Little Picture?
 A Climate Little Picture (CLIP) is a means of communicating climate data in a human readable form.
 
