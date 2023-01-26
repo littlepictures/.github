@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="65"
+   viewBox="0 0 79.374998 17.197917"
+   version="1.1"
+   id="svg105"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="clip_02_header.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview107"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.3758788"
+     inkscape:cx="140.36911"
+     inkscape:cy="51.138973"
+     inkscape:window-width="1440"
+     inkscape:window-height="774"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2481" />
+  </sodipodi:namedview>
+  <defs
+     id="defs102" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2e4b78;fill-opacity:1;stroke-width:0.697911"
+       id="rect350"
+       width="79.375"
+       height="17.197916"
+       x="-5.4997283e-08"
+       y="0.11136245" />
+    <path
+       d="m 2.8787102,7.1335017 c 0.042713,6.0325283 0.032027,5.9150473 0.8007714,7.0147223 1.4414063,2.039327 5.402551,2.039327 6.9507244,0.01075 0.704658,-0.92888 0.811425,-1.366636 0.854167,-3.71558 l 0.04269,-2.1034128 H 10.181765 8.8364423 v 1.6442847 c 0,1.9752731 -0.031973,2.1888091 -0.4697834,2.6906201 -0.3095888,0.363044 -0.4056998,0.405699 -0.9822795,0.448412 -0.5338381,0.03203 -0.6833186,0 -1.0036213,-0.213506 C 5.7294666,12.461326 5.6440701,12.055626 5.6440701,9.2262399 L 5.6333756,6.7385038 8.5481291,6.7171268 11.452279,6.6850672 11.484359,5.7027879 11.516388,4.7098517 8.6015685,4.6884744 5.6867581,4.6563896 5.6547265,3.1829859 5.6226429,1.7202374 H 4.2346885 2.8466807 Z"
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-rule:nonzero;stroke-width:0px"
+       id="path94" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="14.48884"
+       y="6.7378163"
+       id="text2537"><tspan
+         sodipodi:role="line"
+         id="tspan2535"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:5.29167px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Ultra-Light';stroke-width:0.264583"
+         x="14.48884"
+         y="6.7378163">rising seas?</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:5.29167px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Ultra-Light';stroke-width:0.264583"
+         x="14.48884"
+         y="13.52259"
+         id="tspan2724">coming to a shore next door</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.2;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="14.672283"
+       y="11.276124"
+       id="text2537-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:3.52778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Thin';stroke-width:0.264583"
+         x="14.672283"
+         y="11.276124"
+         id="tspan2636" /></text>
+  </g>
+</svg>
