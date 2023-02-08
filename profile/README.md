@@ -1,4 +1,4 @@
-<img style="float: left;" src="https://trevalabs.com/wp-content/uploads/2022/12/trevelabs_logo.png" width="180">
+<img style="float: left;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
 
 ### little pictures - big impact
 <hr>
