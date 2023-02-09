@@ -4,14 +4,15 @@
    id="Ebene_1"
    x="0px"
    y="0px"
-   style="enable-background:new 0 0 282 74;"
    xml:space="preserve"
-   viewBox="2 2 277.99 70"
+   viewBox="2 2 245.38624 30.882812"
    sodipodi:docname="clip_01_header.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    inkscape:export-filename="trevalabs-header02-cropped.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   width="245.38623"
+   height="30.882812"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -43,7 +44,7 @@
    showgrid="false"
    inkscape:zoom="2.26549"
    inkscape:cx="161.99586"
-   inkscape:cy="30.456987"
+   inkscape:cy="10.593735"
    inkscape:window-width="1920"
    inkscape:window-height="926"
    inkscape:window-x="1440"
@@ -57,7 +58,10 @@
 </style>
 <g
    id="g39686"
-   transform="matrix(1.1049724,0,0,1.1049724,-61.99499,-5.6586259)">
+   transform="matrix(1.1049724,0,0,1.1049724,-61.99499,-25.658625)"
+   inkscape:export-filename="clip_01_header.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
 		<path
    class="st0"
    d="m 103.05,45.98 c -0.09,-0.27 -0.15,-1.65 -0.18,-2.01 -0.78,1.32 -2.43,2.4 -5.13,2.4 -3.3,0 -4.83,-1.59 -4.83,-4.32 0,-3.87 3.06,-4.35 6.6,-4.83 2.13,-0.3 3.15,-0.45 3.27,-1.53 0,-1.59 -1.05,-2.52 -3.21,-2.52 -2.31,0 -3.24,1.11 -3.39,2.85 h -2.79 c 0.06,-3.06 1.68,-5.19 6.3,-5.19 4.59,0 6.15,2.1 6.15,5.82 v 9.33 z m -0.21,-7.61 c -0.45,0.51 -1.71,0.63 -3.3,0.87 -2.37,0.39 -3.63,0.9 -3.63,2.73 0,1.47 0.84,2.25 2.55,2.25 2.49,0 4.26,-1.62 4.35,-3.72 z"
@@ -117,7 +121,7 @@
 	</g>
 <g
    id="g40154"
-   transform="matrix(0.70312501,0,0,0.70312501,-1.934368,10.764683)"><g
+   transform="matrix(0.70312501,0,0,0.70312501,-1.934368,-9.2353165)"><g
      id="g37336"
      transform="matrix(1.3333333,0,0,-1.3333333,42.545011,47.979116)"><path
        d="M 0,0 -13.856,8 -27.712,0 -13.856,-8 Z"
