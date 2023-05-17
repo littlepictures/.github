@@ -1,4 +1,4 @@
-### little pictures - big impact
+# little pictures - big impact
 <hr>
 
 ## What is a Climate Little Picture?
