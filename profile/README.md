@@ -1,8 +1,8 @@
 # little pictures - big impact
 <hr>
 
-## What is a Climate Little Picture?
-A Climate Little Picture (CLIP) is a means of communicating climate data in a human readable form.
+## What is a Little Picture?
+A (Climate) Little Picture (CLIP) is a means of communicating climate data in a human readable form.
 
 They are defined as being:
 
